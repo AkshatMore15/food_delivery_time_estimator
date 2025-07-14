@@ -12,5 +12,5 @@ This project uses real-world features to predict food delivery time using XGBoos
 Python, scikit-learn, XGBoost, SHAP, Pandas
 
 ## 📊 Results
-- MAE: 3.7972178131569434 mins
+- MAE: 3.79734 mins
 - R²: 0.74
